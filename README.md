@@ -2,10 +2,9 @@
 
 It is tracker maintained for quick future reference to obtain script or information, using which we can find version details for each specific technology listed below:
 
+Following systems are tracked here:
 
 ## Operating Systems (OS)
-
-Following OSs are tracked here:
 
 - IBM AIX
 - Sun Solaris / Oracle Solaris
@@ -16,16 +15,12 @@ Following OSs are tracked here:
 
 ## Databases (DB)
 
-Following DBs are tracked here:
-
 - Oracle Database
 - MIcrosoft SQL Server
 - SAP HANA
 - Sybase ASE
 
 ## Enterprise Resource Planning (ERP)
-
-Following ERPs are tracked here:
 
 - SAP ECC
 - Oracle EBS
@@ -35,12 +30,8 @@ Following ERPs are tracked here:
 
 ## Other Solutions
 
-Following are tracked here:
-
 - Oracle Retail Management System (RMS)
 
 ## Hypervisor
-
-Following are tracked here:
 
 - VMWare ESXi
