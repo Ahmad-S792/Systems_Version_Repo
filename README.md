@@ -1,6 +1,6 @@
-# Systems_Version_Details
+# Systems_Version_Details_ITGC_Audits
 
-It is tracker maintained for quick future reference to obtain reference path or script or information, using which we can find version details for each specific technology.
+It is tracker maintained to obtain script or others, using which we can find version details for each specific technology.
 
 ---
 
