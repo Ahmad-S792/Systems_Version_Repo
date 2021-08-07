@@ -1,6 +1,8 @@
-# Systems_Version_Details_ITGC_Audits
+# Systems_Version_Details
 
 It is tracker maintained to obtain script or others, using which we can find version details for each specific technology.
+
+*Use Cases - ITGC Audits, IT Audits, Blue or Red Teaming
 
 ---
 
